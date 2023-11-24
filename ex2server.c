@@ -1,6 +1,5 @@
 #include <string.h>
 #include <stdio.h>
-#include <unistd.h>
 
 #include <winsock2.h> // windows에서 실행하기 위해서 필요
 
